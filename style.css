@@ -1,0 +1,159 @@
+.container{
+    margin-bottom: 100px;
+}
+.first-portion{
+    background:  #F0FFF0;
+}
+.navbar-brand img{
+    width: 198.07px;
+    height: 59px;
+}
+
+.books-colour{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+h3{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+
+
+color: #FD511A;
+}
+h1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+
+
+
+color: #000000;
+
+
+}
+.any-schedule{
+    color:#21B573;
+    font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+}
+p{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 36px;
+
+
+
+color: #6C6B6B;
+}
+.Get-Started{
+    background-image: linear-gradient(to bottom,#21B573 0%,#21B573 100%);
+    color:#fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.categories img{
+    width: 66px;
+height: 85px;
+border: none;
+border-radius: 10px;
+
+}
+
+.categories2{
+    box-shadow: 5px 5px 10px lightgray;
+}
+.online-courses h1{
+    
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+
+
+
+color: #413960;
+}
+.online-courses img{
+    width: 331px;
+height: 234px;
+}
+
+.card-footer img{
+    height: 20px;
+    width:20px;
+}
+.card-footer{
+    background-color: white;
+    width:100%;
+  
+    border: none;
+    border-top: none;
+} 
+.online-courses-text h2{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+color: #413960;
+}
+.online-courses-text h5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    
+    
+    
+    color: #585859;
+}
+.Psychology{
+    
+background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+.testimonial h1{
+    
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+
+color: #000000;
+}
+.testimonial img{
+    width: 120px;
+height: 120px;
+}
+footer{
+    text-align: center;
+}
+.term1{
+    margin-top: 50px;
+}
+.term1 p{
+    margin: none;
+}
+.last-section {
+    
+}
